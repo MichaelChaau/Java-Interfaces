@@ -1,0 +1,4 @@
+fight()
+swim()
+fly()
+ActionCharacter can fight 10 times

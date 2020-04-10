@@ -1,0 +1,24 @@
+Wind
+Wind.adjust()
+Wind.play()
+Wind's constant is 5
+
+Percussion
+Percussion.adjust()
+Percussion.play()
+Percussion's constant is 5
+
+Stringed
+Stringed.adjust()
+Stringed.play()
+Stringed's constant is 5
+
+Brass
+Wind.adjust()
+Brass.play()
+Brass's constant is 5
+
+WoodWind
+Wind.adjust()
+WoodWind.play()
+WoodWind's constant is 5
