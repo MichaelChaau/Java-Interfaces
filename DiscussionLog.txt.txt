@@ -1,0 +1,9 @@
+Michael Chau
+Lab 13 Interfaces
+Discussion Log
+
+1 1/2 hours Using what was included in the docs 
+
+What I have learned:
+
+What I learned from doing this lab is how to implement other classes within each other and using interfaces.
