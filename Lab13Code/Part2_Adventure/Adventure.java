@@ -18,7 +18,7 @@
  * 
  * @version 1
  */
-public class Adventure  {
+public class Adventure {
     /**
      * Calls the fight method on the parameter
      * 

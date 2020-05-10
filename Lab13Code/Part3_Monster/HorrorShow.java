@@ -86,7 +86,7 @@ public class HorrorShow {
      * be a menace and can destroy.  So these method calls
      * make sense.
      */ 
-    public static void y(GodZilla g)  {
+    public static void y(Godzilla g)  {
         g.menace();
         g.destroy();
     }
